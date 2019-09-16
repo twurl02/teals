@@ -1,0 +1,11 @@
+C:\github\teals\bin\Debug\netcoreapp2.1\teals.deps.json
+C:\github\teals\bin\Debug\netcoreapp2.1\teals.runtimeconfig.json
+C:\github\teals\bin\Debug\netcoreapp2.1\teals.runtimeconfig.dev.json
+C:\github\teals\bin\Debug\netcoreapp2.1\teals.dll
+C:\github\teals\bin\Debug\netcoreapp2.1\teals.pdb
+C:\github\teals\obj\Debug\netcoreapp2.1\teals.csprojAssemblyReference.cache
+C:\github\teals\obj\Debug\netcoreapp2.1\teals.csproj.CoreCompileInputs.cache
+C:\github\teals\obj\Debug\netcoreapp2.1\teals.AssemblyInfoInputs.cache
+C:\github\teals\obj\Debug\netcoreapp2.1\teals.AssemblyInfo.cs
+C:\github\teals\obj\Debug\netcoreapp2.1\teals.dll
+C:\github\teals\obj\Debug\netcoreapp2.1\teals.pdb
